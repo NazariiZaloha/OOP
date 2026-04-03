@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  Array.cpp
+  Decimal.cpp
+D:\OOP\Lab_3.5\Lab_3.5\Decimal.cpp(41,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Unit Test 3.5.cpp
+     Creating library D:\OOP\Lab_3.5\x64\Debug\Unit Test 3.5.lib and object D:\OOP\Lab_3.5\x64\Debug\Unit Test 3.5.exp
+  Unit Test 3.5.vcxproj -> D:\OOP\Lab_3.5\x64\Debug\Unit Test 3.5.dll
