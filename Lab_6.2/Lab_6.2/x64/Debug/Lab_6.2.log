@@ -1,0 +1,33 @@
+﻿  Array.cpp
+D:\OOP\Lab_6.2\Lab_6.2\Array.h(16,24): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+  (compiling source file 'Array.cpp')
+  
+D:\OOP\Lab_6.2\Lab_6.2\Array.h(19,41): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+  (compiling source file 'Array.cpp')
+  
+D:\OOP\Lab_6.2\Lab_6.2\Array.h(22,50): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+  (compiling source file 'Array.cpp')
+  
+D:\OOP\Lab_6.2\Lab_6.2\Array.h(25,42): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+  (compiling source file 'Array.cpp')
+  
+D:\OOP\Lab_6.2\Lab_6.2\Array.cpp(4,27): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+D:\OOP\Lab_6.2\Lab_6.2\Array.cpp(7,39): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+D:\OOP\Lab_6.2\Lab_6.2\Array.cpp(19,53): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+D:\OOP\Lab_6.2\Lab_6.2\Array.cpp(20,16): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\OOP\Lab_6.2\Lab_6.2\Array.cpp(31,45): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+  Lab_6.2.cpp
+D:\OOP\Lab_6.2\Lab_6.2\Array.h(16,24): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+  (compiling source file 'Lab_6.2.cpp')
+  
+D:\OOP\Lab_6.2\Lab_6.2\Array.h(19,41): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+  (compiling source file 'Lab_6.2.cpp')
+  
+D:\OOP\Lab_6.2\Lab_6.2\Array.h(22,50): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+  (compiling source file 'Lab_6.2.cpp')
+  
+D:\OOP\Lab_6.2\Lab_6.2\Array.h(25,42): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+  (compiling source file 'Lab_6.2.cpp')
+  
+  Generating Code...
+  Lab_6.2.vcxproj -> D:\OOP\Lab_6.2\x64\Debug\Lab_6.2.exe

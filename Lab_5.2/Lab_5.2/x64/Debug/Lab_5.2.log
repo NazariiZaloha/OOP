@@ -1,0 +1,8 @@
+﻿  Lab_5.2.cpp
+D:\OOP\Lab_5.2\Lab_5.2\solver.h(9,58): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+  (compiling source file 'Lab_5.2.cpp')
+  
+D:\OOP\Lab_5.2\Lab_5.2\solver.h(10,53): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+  (compiling source file 'Lab_5.2.cpp')
+  
+  Lab_5.2.vcxproj -> D:\OOP\Lab_5.2\x64\Debug\Lab_5.2.exe

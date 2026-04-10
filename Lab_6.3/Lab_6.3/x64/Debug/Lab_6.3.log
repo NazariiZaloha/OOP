@@ -1,0 +1,25 @@
+﻿  Lab_6.3.cpp
+D:\OOP\Lab_6.3\Lab_6.3\ListArray.h(39,28): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+  (compiling source file 'Lab_6.3.cpp')
+  
+D:\OOP\Lab_6.3\Lab_6.3\ListArray.h(40,51): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+  (compiling source file 'Lab_6.3.cpp')
+  
+D:\OOP\Lab_6.3\Lab_6.3\ListArray.h(41,50): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+  (compiling source file 'Lab_6.3.cpp')
+  
+  ListArray.cpp
+D:\OOP\Lab_6.3\Lab_6.3\ListArray.h(39,28): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+  (compiling source file 'ListArray.cpp')
+  
+D:\OOP\Lab_6.3\Lab_6.3\ListArray.h(40,51): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+  (compiling source file 'ListArray.cpp')
+  
+D:\OOP\Lab_6.3\Lab_6.3\ListArray.h(41,50): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+  (compiling source file 'ListArray.cpp')
+  
+D:\OOP\Lab_6.3\Lab_6.3\ListArray.cpp(25,35): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+D:\OOP\Lab_6.3\Lab_6.3\ListArray.cpp(29,54): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+D:\OOP\Lab_6.3\Lab_6.3\ListArray.cpp(35,57): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+  Generating Code...
+  Lab_6.3.vcxproj -> D:\OOP\Lab_6.3\x64\Debug\Lab_6.3.exe
